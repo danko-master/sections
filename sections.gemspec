@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Daniil Zhirnov"]
   spec.email         = ["danko.master@gmail.com"]
   spec.description   = %q{sections for site}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.summary       = %q{Sample rails gem with generator}
   spec.homepage      = ""
   spec.license       = "MIT"
 
